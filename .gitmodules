@@ -1,0 +1,6 @@
+[submodule "themes/rEFInd-minimalD"]
+	path = themes/rEFInd-minimalD
+	url = https://github.com/EvanPurkhiser/rEFInd-minimal.git
+[submodule "themes/themes/rEFInd-minimal"]
+	path = themes/themes/rEFInd-minimal
+	url = https://github.com/EvanPurkhiser/rEFInd-minimal.git
